@@ -19,9 +19,8 @@ Currently i’m learning **Data Engineering**, and **TypeScript**.
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### **Tools & Platforms**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NINEZERN&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
